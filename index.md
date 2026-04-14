@@ -68,7 +68,7 @@ This app follows:
 ## ✉️ Contact
 
 For any questions:
-**Email:** [your-email@example.com](mailto:suyashgade21@gmail.com)
+**Email:** [suyashgade21@gmail.com](mailto:suyashgade21@gmail.com)
 
 ---
 
