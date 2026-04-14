@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: June 2025**
+
 
 ## 🔒 Privacy-First Design
 
@@ -68,7 +68,7 @@ This app follows:
 ## ✉️ Contact
 
 For any questions:
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [your-email@example.com](mailto:suyashgade21@gmail.com)
 
 ---
 
